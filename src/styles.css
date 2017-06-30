@@ -1,0 +1,9 @@
+body { padding-top: 70px; }
+
+a {
+  cursor: pointer;
+}
+
+.help-block {
+  font-size: 12px;
+}
