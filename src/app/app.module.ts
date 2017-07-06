@@ -32,7 +32,6 @@ import {RouterModule} from "@angular/router";
         AlertComponent,
         HomeComponent,
         LoginComponent,
-        Auth0Component,
         RegisterComponent
     ],
     providers: [

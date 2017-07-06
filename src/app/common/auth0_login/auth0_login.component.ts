@@ -3,6 +3,7 @@ import {Auth0Service} from "./auth0.service";
 
 @Component({
     moduleId: module.id,
+    selector: 'auth0',
     templateUrl:'auth0_login.component.html',
     providers:[Auth0Service]
 })

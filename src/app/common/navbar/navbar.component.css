@@ -6,3 +6,11 @@
   border-radius: 2px;
   color: #e2fbdd;
 }
+
+body {
+  min-height: 2000px;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}

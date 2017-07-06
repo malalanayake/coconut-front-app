@@ -26,7 +26,7 @@ export class NavbarComponent implements OnInit {
 
     public getMenuItemClasses(menuItem: any) {
         return {
-            'pull-xs-right': this.isCollapsed && menuItem.menuType === MenuType.RIGHT
+            'navbar-right': this.isCollapsed && menuItem.menuType === MenuType.RIGHT
         };
     }
 }
